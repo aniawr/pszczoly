@@ -1,1 +1,45 @@
+body {  
+  margin: 32px;  
+  background-color: #ffff99;
+  font-family: cursive, serif;
+}
 
+h1 {
+  color: #993300;
+  font-family: sans-serif, serif;
+}
+  
+h2, h3 {
+  color: #CC3300;
+}
+
+
+.tekst_1 {
+  text-align: center;
+  font size: 5px;
+}
+
+.tekst_2 {
+  align: justify;
+}
+
+p {
+	text-align: justify;
+  font size: large;
+}
+
+img.przycisk {
+ width : 280px;
+ height : 60px; 
+}
+
+img.zdjecie {
+ width: 450px;
+ height: 350px;
+}
+
+hr.linia {
+  color: red;
+  size: 3px;
+  width: 80%;
+}
