@@ -25,7 +25,7 @@ h2, h3 {
   font-size: 5px}
 
 p {
-	text-align: justify;
+  text-align: justify;
   font size: large}
 
 img.przycisk {
@@ -47,7 +47,7 @@ fieldset {
   border-top-left-radius: 25px;}
 
 
-.grafika {
+.ramka {
 	border-width: 2px;
 	border-style: solid;
 	border-color: yellow;}
