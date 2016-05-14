@@ -1,59 +1,53 @@
 body {  
   margin: 32px;  
   background-color: #ffff99;
-  font-family: cursive, serif;
-}
+  font-family: cursive, serif;}
 
 #all {
   margin: 0 auto;
   max-width: 1000px;
-  padding: 0;
-  
-}
+  padding: 0;}
 
 h1 {
   color: #993300;
-  font-family: sans-serif, serif;
-}
+  font-family: sans-serif, serif}
   
 h2, h3 {
-  color: #CC3300;
-}
+  color: #CC3300}
 
 
 .tekst_1 {
   text-align: center;
-  font-size: 25px;
-}
+  font-size: 25px}
 
 .tekst_2 {
   align: justify;
-  font-size: 5px;
-}
+  font-size: 5px}
 
 p {
 	text-align: justify;
-  font size: large;
-}
+  font size: large}
 
 img.przycisk {
   width : 280px;
-  height : 60px; 
-}
+  height : 60px;}
 
 img.zdjecie {
   width: 400px;
-  height: 290px;
-}
+  height: 290px}
 
 hr.linia {
   border-color: #CC3300;
   height: 1px;
-  width: 50%;
-}
+  width: 50%}
 
 fieldset {
   border: medium solid #009900;
   border-top-right-radius: 25px;
-  border-top-left-radius: 25px;
- }
+  border-top-left-radius: 25px;}
+
+
+.grafika {
+	border-width: 2px;
+	border-style: solid;
+	border-color: yellow;}
