@@ -28,6 +28,10 @@ p {
   text-align: justify;
   font size: large}
 
+p.center {
+	text-align: center;
+  font size: large;}
+
 img.przycisk {
   width : 280px;
   height : 60px;}
