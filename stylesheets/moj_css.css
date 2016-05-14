@@ -34,7 +34,10 @@ img.przycisk {
 
 img.zdjecie {
   width: 400px;
-  height: 290px}
+  height: 290px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: green}
 
 hr.linia {
   border-color: #CC3300;
@@ -46,8 +49,3 @@ fieldset {
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;}
 
-
-.ramka {
-	border-width: 6px;
-	border-style: solid;
-	border-color: green;}
