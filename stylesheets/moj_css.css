@@ -11,15 +11,22 @@ body {
 #tlo2 {
   margin: 50px;
   leftmargin: auto rightmargin: auto;
-  background-color: #F7781E;
-}
+  background-color: #F7781E;}
+
+#margines {
+  margin:15px;}
 
 h1 {
+  font-size: 40px;
+  text-align: center;
   color: #993300;
   font-family: sans-serif, serif}
   
 h2, h3 {
-  color: #CC3300}
+  font-size: 25px;
+  text-align: center;
+  color: #993300;
+  font-family: sans-serif, serif}
 
 
 .tekst_1 {
@@ -31,6 +38,8 @@ h2, h3 {
   font-size: 5px}
 
 p {
+  margin: 15px;
+  color: #40230B;
   text-align: justify;
   font-family: sans-serif, serif}
 
@@ -47,15 +56,16 @@ img.zdjecie {
   height: 290px;
   border-width: 6px;
   border-style: solid;
-  border-color: green}
+  border-color: #85AF6F}
 
 hr.linia {
-  border-color: #CC3300;
+  border-color: #FFA812;
   height: 1px;
   width: 50%}
 
 fieldset {
-  border: medium solid #009900;
+  border:  solid #85AF6F;
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;}
+  
 
