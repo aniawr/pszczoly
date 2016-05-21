@@ -11,7 +11,11 @@ body {
 #tlo2 {
   margin: 50px;
   leftmargin: auto rightmargin: auto;
-  background-color: #F7781E;}
+  background-color: #F7781E;
+  
+  border-width: 2px;
+  border-style: solid;
+  border-color: #993300}
 
 #margines {
   margin:15px;}
@@ -61,11 +65,13 @@ img.zdjecie {
 hr.linia {
   border-color: #FFA812;
   height: 1px;
-  width: 50%}
+  width: 70%}
 
 fieldset {
   border:  solid #85AF6F;
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;}
+  
+
   
 
