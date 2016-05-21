@@ -1,12 +1,18 @@
 body {  
-  margin: 32px;  
-  background-color: #ffff99;
-  font-family: cursive, serif;}
+  margin: 50px;  
+  background-color: #EDAF34;
+  font-family: sans-serif, serif}
 
 #all {
   margin: 0 auto;
   max-width: 1000px;
   padding: 0;}
+
+#tlo2 {
+  margin: 50px;
+  leftmargin: auto rightmargin: auto;
+  background-color: #F7781E;
+}
 
 h1 {
   color: #993300;
@@ -26,7 +32,7 @@ h2, h3 {
 
 p {
   text-align: justify;
-  font size: large}
+  font-family: sans-serif, serif}
 
 p.center {
   text-align: center;
