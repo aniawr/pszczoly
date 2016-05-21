@@ -1,6 +1,6 @@
 body {  
   margin: 50px;  
-  background-color: images/plaster2.jpg;
+  background-image: url (images/plaster2.jpg);
   /*background-color: #EDAF34;*/
   font-family: sans-serif, serif}
 
