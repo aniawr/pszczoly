@@ -1,6 +1,7 @@
 body {  
   margin: 50px;  
-  background-image: url("http://aniawr.github.io/pszczoly/images/images/plaster2.jpg");
+  background-image: url(http://aniawr.github.io/pszczoly/images/plaster2.jpg);
+  bgproperties: fixed;
   /*background-color: #EDAF34;*/
   font-family: sans-serif, serif}
 
@@ -73,6 +74,7 @@ fieldset {
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;}
   
+
 
   
 
