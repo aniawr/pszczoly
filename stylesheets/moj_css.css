@@ -26,13 +26,22 @@ h1 {
   font-size: 40px;
   text-align: center;
   color: #993300;
-  font-family: sans-serif, serif}
+  font-family: sans-serif, serif;
+  text-shadow:2px 3px 6px #40230B;}
   
-h2, h3 {
+h2 {
+  font-size: 25px;
+  text-align: center;
+  color: #85AF6F;
+  font-family: sans-serif, serif;
+  text-shadow:2px 3px 4px #40230B;}
+
+h3 {
   font-size: 25px;
   text-align: center;
   color: #993300;
-  font-family: sans-serif, serif}
+  font-family: sans-serif, serif;
+  text-shadow:2px 3px 4px #006600;}
 
 
 .tekst_1 {
@@ -80,7 +89,6 @@ fieldset {
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;}
   
-
 
   
 
