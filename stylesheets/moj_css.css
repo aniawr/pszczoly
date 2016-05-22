@@ -12,6 +12,7 @@ body {
 
 #tlo2 {
   margin: 50px;
+  margin-top: 60px;
   leftmargin: auto rightmargin: auto;
   background-color: #F7781E;
   border-width: 2px;
@@ -19,9 +20,9 @@ body {
   border-color: #993300}
 
 #tlo3 {
-  margin: 50px;
+  margin: 10px;
   leftmargin: auto rightmargin: auto;
-  background-color: #EDAF34;
+  background-color: #85AF6F;
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
@@ -75,13 +76,12 @@ img.zdjecie {
   height: 290px;
   border-width: 6px;
   border-style: solid;
-  border-color: #85AF6F}
+  border-color: #85AF6F;}
 
 img.ramka{
   border-width: 6px;
   border-style: solid;
   border-color: #85AF6F}
-
 
 hr.linia {
   border-color: #FFA812;
