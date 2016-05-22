@@ -10,11 +10,20 @@ body {
   max-width: 1200px;
   padding: 0;}
 
-#tlo2 {
+#tlo1 {
   margin: 50px;
   margin-top: 60px;
   leftmargin: auto rightmargin: auto;
   background-color: #F7781E;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #993300}
+
+#tlo2 {
+  margin: 50px;
+  margin-top: 60px;
+  leftmargin: auto rightmargin: auto;
+  background-color: #EDAF34;
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
