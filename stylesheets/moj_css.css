@@ -23,7 +23,7 @@ body {
   margin: 50px;
   margin-top: 60px;
   leftmargin: auto rightmargin: auto;
-  linear-gradient(#EDAF34, #F7781E);
+  background: linear-gradient(#EDAF34, #F7781E);
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
