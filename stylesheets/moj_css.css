@@ -31,8 +31,7 @@ body {
 #tlo3 {
   margin: 10px;
   leftmargin: auto rightmargin: auto;
-  //background-color: #85AF6F;
-  background: linear-gradient(#85AF6F, #EDAF34);
+  background: linear-gradient(#85AF60 35%, white);
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
