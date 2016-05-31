@@ -14,7 +14,7 @@ body {
   margin: 50px;
   margin-top: 60px;
   leftmargin: auto rightmargin: auto;
-  background-color: #F7781E;
+  background: linear-gradient(#F7781E, #EDAF34);
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
@@ -23,7 +23,7 @@ body {
   margin: 50px;
   margin-top: 60px;
   leftmargin: auto rightmargin: auto;
-  background-color: #EDAF34;
+  linear-gradient(#EDAF34, #F7781E);
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
@@ -31,7 +31,8 @@ body {
 #tlo3 {
   margin: 10px;
   leftmargin: auto rightmargin: auto;
-  background: linear-gradient (#85AF6F, #FFA812)
+  //background-color: #85AF6F;
+  background: linear-gradient(#85AF6F, #EDAF34);
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
