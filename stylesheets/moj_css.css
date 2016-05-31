@@ -2,7 +2,6 @@ body {
   margin: 50px;  
   background-image: url(http://aniawr.github.io/pszczoly/images/plaster3.jpg);
   background-attachment: fixed;
-  /*background-color: #EDAF34;*/
   font-family: sans-serif, serif}
 
 #all {
@@ -23,13 +22,13 @@ body {
   margin: 50px;
   margin-top: 60px;
   leftmargin: auto rightmargin: auto;
-  background: linear-gradient(#EDAF34, #F7781E);
+  linear-gradient(#EDAF34, #F7781E);
   border-width: 2px;
   border-style: solid;
   border-color: #993300}
 
 #tlo3 {
-  margin: 10px;
+  margin: 20px;
   leftmargin: auto rightmargin: auto;
   background: linear-gradient(#85AF60 35%, white);
   border-width: 2px;
@@ -40,20 +39,20 @@ body {
   margin:15px;}
 
 h1 {
-  font-size: 45px;
+  font-size: 60px;
   text-align: center;
   color: #993300;
   font-family: sans-serif, serif;
   text-shadow:2px 3px 6px #40230B;}
   
 h2 {
-  font-size: 25px;
+  font-size: 35px;
   text-align: center;
   color: #85AF6F;
   font-family: sans-serif, serif;}
 
 h3 {
-  font-size: 25px;
+  font-size: 35px;
   text-align: center;
   color: #993300;
   font-family: sans-serif, serif;
@@ -64,8 +63,9 @@ h3 {
   font-size: 18px}
 
 .tekst_2 {
+  font-weight: bold;
   text-align: center;
-  font-size: 15px}
+  font-size: 18px}
 
 p {
   font-size: 20px;
@@ -78,32 +78,30 @@ p.center {
   font-size: xx-large;}
 
 img.przycisk {
-  width : 280px;
-  height : 60px;}
+  width : 300px;
+  height : 80px;}
 
 img.zdjecie {
   width: 400px;
   height: 290px;
-  border-width: 6px;
+  border-width: 5px;
   border-style: solid;
   border-color: #85AF6F;}
 
 img.ramka{
-  border-width: 6px;
+  border-width: 5px;
   border-style: solid;
   border-color: #85AF6F}
 
 hr.linia {
   border-color: #FFA812;
-  height: 1px;
+  height: 2px;
   width: 70%}
 
 fieldset {
   border:  solid #85AF6F;
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;}
- 
- 
  
  
  
